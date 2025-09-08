@@ -3,6 +3,38 @@
     src: url("fonts/courierstuck.ttf");
 }
 
+p, a {
+    font-family: Verdana;
+}
+
+a {
+    font-weight: bold;
+}
+
+#ncurrent {
+    color: lightgrey;
+}
+
+#nav1 {
+    color: orangered
+}
+
+#nav2 {
+    color: greenyellow
+}
+
+#nav3 {
+    color: dodgerblue
+}
+
+#nav4 {
+    color: pink
+}
+
+#nav5 {
+    color: goldenrod
+}
+
 .bg-fantastic {
     background-image: url("media/FANTASTIC WEBSITE.gif");
 }
@@ -43,4 +75,7 @@
 .nav {
     background-color: rgb(65, 65, 65);
     display: flex;
+    justify-content: space-evenly;
+    position:sticky;
+    top: 0;
 }
