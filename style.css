@@ -3,7 +3,7 @@
     src: url("fonts/courierstuck.ttf");
 }
 
-.bg {
+.bg-fantastic {
     background-image: url("media/FANTASTIC WEBSITE.gif");
 }
 
@@ -38,4 +38,9 @@
 .subtitle {
     font-size: 1em;
     color: gray;
+}
+
+.nav {
+    background-color: rgb(65, 65, 65);
+    display: flex;
 }
