@@ -2,7 +2,6 @@
   '"It\'s far more impressive and personable than YOUR website!"',
   '<b>BUY WAR BONDS!!</b>',
   '<i>Dear Robert,<br>I was going to send you some stationary Anyway, but since you got greedy and asked for it, now you get nothing. i hope you learnt your lesson.<br> Love, Eunuchs 🖤</i><br>[sic]',
-  '"You deserve punishment..."',
   'Why are we still standing here looking around? Click the links.',
   'Don\'t forget to submit a question on the questions tab.',
   'Not optimized for mobile. Never optimized for mobile.',

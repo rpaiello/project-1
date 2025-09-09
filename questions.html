@@ -18,25 +18,23 @@
             <div class="p-2"><a href="questions.html" id="ncurrent">QUESTIONS</a></div>
         </section>
         <section class="center">
-            <div class="stuck mx-3 title">ASK ME A QUESTION</div>
+            <div class="stuck mx-3 title2">ASK ME A QUESTION</div>
+            <br>
         </section>
-        <form action="" width="40%" class="container">
+        <form action="https://formsubmit.co/rpaiello@gmail.com" method="POST" width="40%" class="container">
             <div class="row">
                 <div class="col-6">
-                    <label for="q"><b>TYPE IT HERE ↓</b></label>
-                    <textarea name="q" id="" placeholder="What's the meaning of life?" rows="5" cols="6"></textarea>
+                    <label for="question"><b>TYPE IT HERE ↓</b></label>
+                    <textarea name="question" id="" placeholder="What's the meaning of life?" rows="5" cols="6"></textarea>
                 </div>
                 <div class="col-6">
                     <label for="name"><b>WHAT'S YOUR NAME?</b> <span class="subtitle" style="font-size: 10px;">(it doesn't have to be your actual name)</span> </label>
                     <input type="text" name="name" placeholder="Peter Doobes" class="mb-3">
                     <div class="row">
-                        <div class="col-6">
-                            <label for="color"><b>WHAT'S YOUR FAVORITE COLOR?</b></label>
-                            <input type="color">
-                        </div>
-                        <div class="col-6">
-                            <label for="sb"><b>PRESS WHEN READY</b></label>
-                            <input type="submit" class="btn" name="sb">
+                        <div class="mx-auto" style="width: 70%;">
+                            <input type="submit" class="btn" name="sb" style="height: 30px;">
+                            <input type="hidden" name="_subject" value="Someone asked you a question">
+                            <input type="hidden" name="_next" value="questions.html">
                         </div>
                     </div>
                 </div>
