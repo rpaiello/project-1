@@ -45,6 +45,10 @@ a {
     display: block;
 }
 
+.lg {
+    background-color: lightgray;
+}
+
 .front {
     width: 80%;
     background-color: lightgray;
@@ -59,7 +63,7 @@ a {
 }
 
 .answer {
-    margin: 25px auto 0px auto;
+    margin-top: 20px;
     padding: 1em;
     background-color: white;
     width: 80%;
