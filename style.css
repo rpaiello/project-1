@@ -59,8 +59,8 @@ a {
 }
 
 .answer {
+    margin: 25px auto 0px auto;
     padding: 1em;
-    margin-top: 5px;
     background-color: white;
     width: 80%;
     border: 2px solid gray;
@@ -103,7 +103,7 @@ a {
 
 .mq {
     display: block;
-    background-color:darkgrey;
+    background-color: darkgrey;
     padding: 5px;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
