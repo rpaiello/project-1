@@ -38,7 +38,7 @@ a {
 }
 
 .bg-fantastic {
-    background-image: url("media/FANTASTIC WEBSITE.gif");
+    background-image: url("./media/FANTASTIC\ WEBSITE.gif");
 }
 
 .block {
@@ -55,7 +55,7 @@ a {
 }
 
 .bg-ans {
-    background-image: url("media/GET AN ANSWER.png");
+    background-image: url("./media/GET\ AN\ ANSWER.png");
 }
 
 .answer {
