@@ -5,7 +5,7 @@
     src: url("fonts/courierstuck.ttf");
 }
 
-p, a, form {
+p, a, form, h1, h2, h3, h4, h5, h6 {
     font-family: Verdana;
 }
 
@@ -54,6 +54,20 @@ a {
     top: -10px;
 }
 
+.bg-ans {
+    background-image: url("media/GET AN ANSWER.png");
+}
+
+.answer {
+    padding: 1em;
+    margin-top: 5px;
+    background-color: white;
+    width: 80%;
+    border: 2px solid gray;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px black;
+}
+
 .stuck {
     font-family: courierstuck;
     font-size: 2em;
@@ -80,6 +94,24 @@ a {
 .subtitle {
     font-size: 1em;
     color: gray;
+}
+
+.from {
+    font-size: small;
+    font-weight: bold;
+}
+
+.mq {
+    display: block;
+    background-color:darkgrey;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.justify {
+    text-align: justify;
+    line-height: 1.5em;
 }
 
 .nav {
