@@ -47,8 +47,8 @@ a {
 
 .pd {
     display: block;
-    width: 240px;
-    height: 240px;
+    width: 400px;
+    height: 300px;
 }
 
 .lg {
@@ -282,5 +282,5 @@ input:hover, select:hover,  textarea:hover {
 }
 
 img:hover.card {
-    transform: rotate(-5deg);
+    transform: rotate(5deg);
 }

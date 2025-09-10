@@ -1731,6 +1731,11 @@
   padding-left: 3rem !important;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 @media (min-width: 576px) {
   .d-sm-inline {
     display: inline !important;
