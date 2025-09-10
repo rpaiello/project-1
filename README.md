@@ -5,8 +5,7 @@
 A fun, visually interesting, not-so-professional personal website made to look like someone's MySpace page from 2010.
 Includes five pages linked by a nav-bar:
 * A home page with random text every time you refresh the page
-* A portfolio page showcasing projects I've worked on
-* A "visual portfolio" page showcasing graphic design I've worked on
+* A projects page showcasing cool stuff I've done
 * A contact page holding all of my contact info
 * An "ask me a question" page in the vein of Bill Wurtz
 

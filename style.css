@@ -55,6 +55,20 @@ a {
     background-color: lightgray;
 }
 
+.placeholder {
+    border: 3px solid black;
+}
+
+.img-emphasis {
+    border: 3px solid gray;
+    border-radius: 5px;
+}
+
+.paragraph-emphasis {
+    border: 3px solid lightpink;
+    border-radius: 5px;
+}
+
 .front {
     width: 80%;
     background-color: lightgray;
