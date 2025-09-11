@@ -67,13 +67,14 @@ a {
 .paragraph-emphasis {
     border: 3px solid lightpink;
     border-radius: 5px;
+    background-color: white;
 }
 
 .front {
     width: 80%;
     background-color: lightgray;
     justify-self: center;
-    position:  relative;
+    position: relative;
     height: 100%;
     top: -10px;
 }
