@@ -10,3 +10,5 @@ Includes five pages linked by a nav-bar:
 * An "ask me a question" page in the vein of Bill Wurtz
 
 Uses a central "style.css" file as well as a superlight version of Bootstrap with just the grid system (no JS components or colors or text styling)
+
+![Wireframes](media/wireframes.jpg)
